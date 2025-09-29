@@ -139,15 +139,3 @@ This repository contains the full rankedCOMET system described in the WMT 2025 T
 - Rank-based calibration cannot recover signal for language pairs where the base COMET model has none (e.g., EN–AR/EN–BHO in our experiments).
 - When test-set statistics are disallowed, rely on the dev-based mapping provided in the scripts.
 
-## 📄 Citation
-
-```
-@misc{rankedcomet2025,
-  author = {Sujal ...},
-  title = {rankedCOMET: Lightweight per-language calibration for WMT 2025 QE},
-  year = {2025},
-  url = {https://github.com/SUJAL390/rankedcomet-wmt25-emnlp}
-}
-```
-
-Please replace the citation metadata with the final paper details once available.
