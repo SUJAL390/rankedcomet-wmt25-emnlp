@@ -1,0 +1,9 @@
+numpy>=1.24
+pandas>=1.5
+scipy>=1.10
+matplotlib>=3.7
+seaborn>=0.13
+scikit-learn>=1.3
+torch>=2.0
+tqdm>=4.66
+unbabel-comet>=2.2

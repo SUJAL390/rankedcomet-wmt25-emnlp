@@ -1,0 +1,6 @@
+method,pearson_vs_raw_all
+perlang_rankminmax,0.32328829491265687
+perlang_z_minmax,0.7162486480302611
+global_minmax,1.0
+dev_isotonic,
+perlang_isotonic,
